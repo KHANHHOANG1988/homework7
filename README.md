@@ -98,9 +98,9 @@ You are required to submit the following:
 * An animated GIF demonstrating the app functionality
 
 * A screenshot of the generated readme
-
+https://github.com/KHANHHOANG1988/Homework7/blob/master/develop/homework7.png
 
 * The URL of the GitHub repository
-
+https://github.com/KHANHHOANG1988/homework7.git
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

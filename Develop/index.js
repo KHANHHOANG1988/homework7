@@ -84,7 +84,7 @@ function init() {
 # Username 
      ${username}
 # Profile picture:
-    <image href="${avatar}" width="200">
+![](${avatar}})
 ## Description
     ${description}
 ## Table of Contents
@@ -106,10 +106,11 @@ function init() {
     ${questions}
         `
     //creating the readme.md using writeFile
-    fs.writeFile("ReadMe.md", ReadMe, function(err){
-        if (err){return console.log(err);}
-               })
+        fs.writeFile("ReadMe.md", ReadMe, function(err){
+            if (err){return console.log(err);}          
         })
+              
+    })
     // });
 }
  
