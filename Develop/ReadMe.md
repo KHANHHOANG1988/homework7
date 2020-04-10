@@ -1,27 +1,27 @@
 
             
-# a
+# ReadMe Generator
 # Username 
      KHANHHOANG1988
 # Profile picture:
 ![](https://avatars1.githubusercontent.com/u/60201482?v=4})
 ## Description
-    a
+     Create a command-line application that dynamically generates a README.md from a user's input
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#contributing)
 * [License](#license)
 ## Installation
-     a
+     N/A
 ## Usage
-    a
+    to generate a readme file with user's input
 ## License
-    a
+    N/A
 ## Contributing
-    a
+    N/A
 ## Tests
-    a
+    NODE INDEX.JS
 ## Questions
-    a
+    N/A
         
