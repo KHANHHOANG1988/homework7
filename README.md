@@ -96,9 +96,9 @@ We would like you to have more than 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * An animated GIF demonstrating the app functionality
-
+https://github.com/KHANHHOANG1988/homework7/blob/master/Develop/Gif.gif
 * A screenshot of the generated readme
-https://github.com/KHANHHOANG1988/Homework7/blob/master/develop/homework7.png
+https://github.com/KHANHHOANG1988/Homework7/blob/master/Develop/homework7.png
 
 * The URL of the GitHub repository
 https://github.com/KHANHHOANG1988/homework7.git
