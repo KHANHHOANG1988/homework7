@@ -80,11 +80,11 @@ function init() {
        const avatar = await getGitHubData(username)
         let ReadMe = `
             
-# ${title}
+# ${title} ![](https://img.shields.io/badge/made%20with-nodejs-blue.svg)
 # Username 
      ${username}
 # Profile picture:
-![](${avatar}})
+![](${avatar})
 ## Description
     ${description}
 ## Table of Contents
