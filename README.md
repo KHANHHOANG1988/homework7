@@ -97,7 +97,8 @@ You are required to submit the following:
 
 * An animated GIF demonstrating the app functionality
 
-* A generated PDF of your GitHub profile
+* A screenshot of the generated readme
+
 
 * The URL of the GitHub repository
 
